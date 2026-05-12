@@ -1,5 +1,3 @@
-# Memeory
- My personal memory patching and hooking library. (Made for learning purposes)
-
-It shouldn't be used in anything serious since it is very experimental, unoptimized and probably broken.
-I know about the poor structure of the module, I'll try to fix that when I can.
+# Mememory
+An immersive encyclopedia of memes
+<img width="4104" height="2010" alt="image" src="https://github.com/user-attachments/assets/86794a3a-6b97-4ffa-b866-d1a62cc3f6f6" />
